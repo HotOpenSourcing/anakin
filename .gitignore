@@ -21,13 +21,10 @@ dist/
 *.tgz
 
 # Environment
-.env
-.env.local
 .env.*.local
 
 # IDE
 .idea/
-.vscode/
 *.swp
 *.swo
 *~
@@ -44,3 +41,4 @@ tmp/
 *.log
 */anakinscraper
 .gstack/
+config.bat
